@@ -7,9 +7,9 @@
 
 ## Informations
 
-- **Titre** : Recherche en créatif coding
+- **Titre** : Creative : Recherche sur le créer (initialement créatif coding).
 - **Version** : Alpha 0.1
-- **Description** : Creative Coding: Exploration et application pratique pour les artistes, développeurs, entrepreneurs et chercheurs intéressés par le croisement entre créativité et technologie. Ce projet étudie les liens entre le creative coding et divers domaines connexes, en examinant la théorie et en fournissant des tutoriels pratiques.
+- **Description** : Creative : Exploration et application pratique pour les artistes, développeurs, entrepreneurs et chercheurs intéressés par le croisement entre créativité et technologie. Ce projet étudie les liens entre les domaines créatifs et divers domaines connexes, en examinant la théorie et en fournissant des tutoriels pratiques (sur l'aspect creative coding).
 - **Auteur** :
   - Nom : Alex Zérah
   - Mail : [edu@alexzerah.com](mailto:edu@alexzerah.com)
