@@ -8,13 +8,16 @@
 ## Informations
 
 - **Titre** : Recherche en créatif coding
+- **Version** : Alpha 0.1
 - **Description** : Creative Coding: Exploration et application pratique pour les artistes, développeurs, entrepreneurs et chercheurs intéressés par le croisement entre créativité et technologie. Ce projet étudie les liens entre le creative coding et divers domaines connexes, en examinant la théorie et en fournissant des tutoriels pratiques.
 - **Auteur** :
   - Nom : Alex Zérah
   - Mail : [edu@alexzerah.com](mailto:edu@alexzerah.com)
-- **Date** : Mai 2023
+- **Date** : Juin 2023
 - **Objectifs** :
   - Ce référentiel vise à explorer et documenter le domaine du creative coding et ses interactions avec d'autres disciplines, telles que l'art, la science, le design et la technologie. L'objectif principal est de fournir une ressource complète pour les artistes, les développeurs et les chercheurs intéressés par l'application du creative coding dans divers contextes. Le projet comprend à la fois une partie théorique, qui examine les concepts et les idées sous-jacents, et une partie pratique, qui fournit des tutoriels et des exemples concrets d'application de ces concepts dans des projets de creative coding.
+
+[➡️ Lien vers la présentation du projet.](1.Introduction/2.Presentation.md)
 
 ## Contribuer
 
