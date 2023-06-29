@@ -24,7 +24,7 @@
 - **Objectifs** :
   - Ce référentiel vise à explorer et documenter le domaine du creative coding et ses interactions avec d'autres disciplines, telles que l'art, la science, le design et la technologie. L'objectif principal est de fournir une ressource complète pour les artistes, les développeurs et les chercheurs intéressés par l'application du creative coding dans divers contextes. Le projet comprend à la fois une partie théorique, qui examine les concepts et les idées sous-jacents, et une partie pratique, qui fournit des tutoriels et des exemples concrets d'application de ces concepts dans des projets de creative coding.
 - **Démarches** :
-  - C'est un travail que j'effectue depuis longtemps. Il s'agit principalement de foramliser ma pensée et mes recherches afin de constituer un document clair tout en créant des liens entre les différents domaines.
+  - C'est un travail que j'effectue depuis longtemps. Il s'agit principalement de formaliser ma pensée et mes recherches afin de constituer un document clair tout en créant des liens entre les différents domaines.
 
 [➡️ Lien vers la présentation du projet.](1.Introduction/2.Presentation.md)
 
