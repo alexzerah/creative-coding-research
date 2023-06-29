@@ -13,7 +13,7 @@
 - **Auteur** :
   - Nom : Alex Zérah
   - Mail : [edu@alexzerah.com](mailto:edu@alexzerah.com)
-- **Date** : Juin 2023
+- **Date** : Juillet 2023
 - **Objectifs** :
   - Ce référentiel vise à explorer et documenter le domaine du creative coding et ses interactions avec d'autres disciplines, telles que l'art, la science, le design et la technologie. L'objectif principal est de fournir une ressource complète pour les artistes, les développeurs et les chercheurs intéressés par l'application du creative coding dans divers contextes. Le projet comprend à la fois une partie théorique, qui examine les concepts et les idées sous-jacents, et une partie pratique, qui fournit des tutoriels et des exemples concrets d'application de ces concepts dans des projets de creative coding.
 
