@@ -1,11 +1,18 @@
-
 # Recherche en creative coding
 
-## WIP
+## 📖 Table des matières
+
+- [Recherche en creative coding](#recherche-en-creative-coding)
+  - [📖 Table des matières](#-table-des-matières)
+  - [⚠️ WIP](#️-wip)
+  - [ℹ️ Informations](#ℹ️-informations)
+  - [📝 Contribuer](#-contribuer)
+
+## ⚠️ WIP
 
 > ⚠️ Ce document est en cours d'écriture. Il ne s'agit pas d'un produit fini. Il peut comporter des erreurs ou des éléments incomplets. Vous pouvez me contacter à l'adresse [edu@alexzerah.com](mailto:edu@alexzerah.com) pour toute question ou suggestion.
 
-## Informations
+## ℹ️ Informations
 
 - **Titre** : Creative : Recherche sur le créer (initialement créatif coding).
 - **Version** : Alpha 0.1
@@ -16,10 +23,12 @@
 - **Date** : Juillet 2023
 - **Objectifs** :
   - Ce référentiel vise à explorer et documenter le domaine du creative coding et ses interactions avec d'autres disciplines, telles que l'art, la science, le design et la technologie. L'objectif principal est de fournir une ressource complète pour les artistes, les développeurs et les chercheurs intéressés par l'application du creative coding dans divers contextes. Le projet comprend à la fois une partie théorique, qui examine les concepts et les idées sous-jacents, et une partie pratique, qui fournit des tutoriels et des exemples concrets d'application de ces concepts dans des projets de creative coding.
+- **Démarches** :
+  - C'est un travail que j'effectue depuis longtemps. Il s'agit principalement de foramliser ma pensée et mes recherches afin de constituer un document clair tout en créant des liens entre les différents domaines.
 
 [➡️ Lien vers la présentation du projet.](1.Introduction/2.Presentation.md)
 
-## Contribuer
+## 📝 Contribuer
 
 J’encourage vivement les personnes intéressées à contribuer à cet ouvrage, quelle que soit la forme que cela puisse prendre. Vos contributions sont précieuses pour améliorer et enrichir ce projet. Voici quelques façons de participer :
 
